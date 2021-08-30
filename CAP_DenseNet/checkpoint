@@ -1,0 +1,2 @@
+model_checkpoint_path: "DesNet-covid-normal.ckpt"
+all_model_checkpoint_paths: "DesNet-covid-normal.ckpt"
